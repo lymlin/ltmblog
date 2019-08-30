@@ -30,9 +30,9 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Home"
-  cta_url = "https://lymlin.github.io"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_url = "https://blog.csdn.net/lymlin"
+  cta_icon_pack = ""
+  cta_icon = ""
 
 #[[item]]
 #  title = "Left"
