@@ -19,7 +19,7 @@ subtitle = ""
   icon = "user-md"
   icon_pack = "fas"
   name = "Clinical Practice"
-  description = """65% \t
+  description = """70% \t
   Common diseases \t
   Clinical care \t
   """  
@@ -28,7 +28,7 @@ subtitle = ""
   icon = "vials"
   icon_pack = "fas"
   name = "Lab Techniques"
-  description = """65% \t 
+  description = """60% \t 
   Animal management \t
   Histological techniques \t
   Cell isolation and culture"""
