@@ -36,7 +36,7 @@ Tianjin Medical University General Hospital
 
 * Research assistant in the cGAS research for multiple sclerosis project
 * Research assistant in the scRNA research for stroke project
-* Masters degree research project：Deep learning in marker investigation of stroke
+* Masters degree research project
 
 ---
 **Skills**

@@ -28,7 +28,7 @@ subtitle = ""
   icon = "vials"
   icon_pack = "fas"
   name = "Lab Techniques"
-  description = """60% \t 
+  description = """50% \t 
   Animal management \t
   Histological techniques \t
   Cell isolation and culture"""
