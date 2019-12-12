@@ -28,11 +28,11 @@ subtitle = ""
   icon = "vials"
   icon_pack = "fas"
   name = "Lab Techniques"
-  description = """70% \t 
+  description = """60% \t 
   Animal management \t
   Histological techniques \t
   Cell isolation and culture"""
-  
+
 [[feature]]
   icon = "database"
   icon_pack = "fas"
@@ -41,9 +41,9 @@ subtitle = ""
   Data processing \t
   Support application \t
   Work exhibition"""  
-  
 
-  
+
+
 # Programming skills
 
 [[feature]]
@@ -100,4 +100,5 @@ subtitle = ""
   Home tutoring for 2 \t 
   senior-high-school students
   """
+
 +++
