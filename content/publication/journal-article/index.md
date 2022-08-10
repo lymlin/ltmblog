@@ -1,23 +1,23 @@
 ---
 title:  "A biocompatible two-photon absorbing fluorescent mitochondrial probe for deep in vivo bioimaging"
 authors:
-- Lingmin Lin
-- Zewei He
-- Tianfang Zhang
-- Yanming Zuo
-- Xiangfeng Chen
-- Zeinab Abdelrahman
-- Feihong Chen
-- Zhongcao wei
-- Ke Si
-- Wei Gong
-- Xuhua Wang
-- Sailing He
-- Zuobing Chen
+    - Lingmin Lin
+    - Zewei He
+    - Tianfang Zhang
+    - Yanming Zuo
+    - Xiangfeng Chen
+    - Zeinab Abdelrahman
+    - Feihong Chen
+    - Zhongcao wei
+    - Ke Si
+    - Wei Gong
+    - Xuhua Wang
+    - Sailing He
+    - Zuobing Chen
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
+    - 'Equal contribution'
+    - 'Equal contribution'
+    - 'Equal contribution'
 date: "2022-02-09"
 doi: "10.1039/d1tb02040d"
 
