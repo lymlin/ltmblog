@@ -1,4 +1,5 @@
 ---
+title: Improving functional recovery after severe spinal cord injury by a noninvasive dual functional approach of neuroprotection and neuromodulation
 abstract: 
   Despite tremendous unmet medical needs, there is no effective pharmacological treatment to promote functional recovery after spinal cord injury (SCI). Although multiple pathological events have been implicated in SCI, the development of a noninvasive pharmacological approach to simultaneously target the different mechanisms involved in SCI remains a formidable challenge. In this study, we report the development of a noninvasive nanodrug delivery system that consists of ROS-responsive amphiphilic copolymers and an encapsulated neurotransmitter-conjugated KCC2 agonist. We show that upon intravenous administration, the nanodrugs were able to enter the injured spinal cord due to blood spinal cord barrier disruption and ROS-responsive disassembly. Remarkably, once in the injured spinal cord, these nanodrugs exhibited dual functions:\ scavenging ROS accumulated in the lesion to protect spared connections and increasing neuronal excitability in the injured spinal cord through targeted delivery of the KCC2 agonist to inhibitory neurons. Thus, the noninvasive treatment led to significant functional recovery in the rats with contusive SCI. Together, these findings provide a much-needed translational pharmacological approach for treating severe SCI.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
@@ -45,7 +46,7 @@ slides: ROS scavenger and KCC2 anonist
 summary: A designed nanodrug acts as a ROS scavenger and a KCC2 agonist for Spinal cord injury
 tags:
 - Source Themes
-title: Improving functional recovery after severe spinal cord injury by a noninvasive dual functional approach of neuroprotection and neuromodulation
+
 url_code: '#'
 url_dataset: '#'
 url_pdf: https://www.biorxiv.org/content/10.1101/2022.02.14.478109v1

@@ -26,7 +26,6 @@ publishDate: "2015-07-25"
 #  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 #- Source Themes
-title: Research progress on osteoporosis drugs targeting osteoclasts.[靶向破骨细胞的骨质疏松治疗药物研究进展]
 #url_code: '#'
 #url_dataset: '#'
 url_pdf: http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2015&filename=ZMYX201514207&v=MTc3MjR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2ZiK1JtRmlublc3dkxQeURTZHJHNEg5VE5xNDFGWTRSOGVYMUw=
