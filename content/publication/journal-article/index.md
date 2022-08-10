@@ -14,7 +14,10 @@ authors:
 - Xuhua Wang
 - Sailing He
 - Zuobing Chen
-
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: "2022-02-09"
 doi: "10.1039/d1tb02040d"
 
@@ -30,7 +33,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 
-publication: '*Journal of Materials Chemistry B, 1*(1)'
+publication: In *Journal of Materials Chemistry B*
 publication_short: In *J Mater Chem B*
 
 
@@ -41,7 +44,7 @@ summary: A designed two-photon mitochondria tracker with high absorption cross-s
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 
 url_pdf: [A biocompatible two-photon absorbing fluorescent mitochondrial probe for deep in vivo bioimaging](https://pubs.rsc.org/en/content/articlelanding/2022/TB/D1TB02040D)
