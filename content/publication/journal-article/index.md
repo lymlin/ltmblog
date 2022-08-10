@@ -18,35 +18,23 @@ authors:
 date: "2022-02-09"
 doi: "10.1039/d1tb02040d"
 featured: true
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
- # focal_point: ""
- # preview_only: false
-#links:
-#- name: Custom Link
-#  url: http://example.org
-#projects:
-#- internal-project
-#publication: In *Source Themes Conference*
-#publication_short: In *STC*
+publication: '*Journal of Materials Chemistry B, 1*(1)'
+publication_short: In *J Mater Chem B*
 publication_types:
-- "1"
+- "2"
 publishDate: "2022-02-09"
-#slides: example
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-#  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
-#- Source Themes
-title: Research progress on osteoporosis drugs targeting osteoclasts.[靶向破骨细胞的骨质疏松治疗药物研究进展]
-#url_code: '#'
-#url_dataset: '#'
-url_pdf: A biocompatible two-photon absorbing fluorescent mitochondrial probe for deep in vivo bioimaging
+# tags:
+# - Source Themes
+title:  A biocompatible two-photon absorbing fluorescent mitochondrial probe for deep in vivo bioimaging
 
-#url_poster: '#'
-#url_project: ""
-#url_slides: ""
-#url_source: '#'
-#url_video: '#'
+url_code: ""
+url_dataset: ""
+url_pdf: [A biocompatible two-photon absorbing fluorescent mitochondrial probe for deep in vivo bioimaging](https://pubs.rsc.org/en/content/articlelanding/2022/TB/D1TB02040D)
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 ---
 
 
