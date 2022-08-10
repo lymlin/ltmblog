@@ -1,11 +1,5 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Mitochondria, key organelles which keep in tune with energy demands for eukaryotic cells, are firmly associated with neurological conditions and post-traumatic rehabilitation. In vivo fluorescence imaging of mitochondria, especially with deep tissue penetration, would open a window to investigate the actual context of the brain. However, the depth of traditional two-photon mitochondrial fluorescence imaging is still limited due to the poor biological compatibility or low two-photon absorption cross-sections. A biocompatible mitochondria-targeted two-photon fluorescent dye (FO2) with an excellent two-photon absorption cross-section (the maximum of 1184 GM at 790 nm) and low cellular toxicity was designed and synthesized to overcome this problem. With this dye, we reached an imaging depth of ca. 640 μm during mitochondrial imaging of cortical cells in live animals. FO2 could be an excellent mitochondrial probe for live animal neural imaging to investigate the function and dysfunction of mitochondria in the brain.
 authors:
 - admin
 - Robert Ford
@@ -17,11 +11,11 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Journal of Materials Chemistry B, 1*(1)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-02-09"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -45,5 +39,3 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% alert note %}}
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
