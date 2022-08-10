@@ -54,7 +54,50 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+
+
+title:  "XXX"
+authors:
+    - Lingmin Lin
+date: "2022-02-09"
+doi: "10.1039/d1tb02040d"
+
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2022-08-10"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
+
+# Publication name and optional abbreviated publication name.
+
+publication: In *Journal of Materials Chemistry B*
+publication_short: In *J Mater Chem B*
+
+
+abstract: '123'
+
+# Summary. An optional shortened abstract.
+summary: jjj
+
+tags: []
+featured: true
+
+
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 ---
+
+
 
 
 {{% alert note %}}
