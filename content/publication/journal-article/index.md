@@ -44,7 +44,7 @@ summary: A designed two-photon mitochondria tracker with high absorption cross-s
 
 tags: 
 - Source Themes
-featured: true
+# featured: true
 
 
 url_pdf: [A biocompatible two-photon absorbing fluorescent mitochondrial probe for deep in vivo bioimaging](https://pubs.rsc.org/en/content/articlelanding/2022/TB/D1TB02040D)
