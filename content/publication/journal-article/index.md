@@ -21,7 +21,6 @@ author_notes:
 date: "2022-02-09"
 doi: "10.1039/d1tb02040d"
 
-
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-08-10"
 
@@ -33,7 +32,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 
-publication: In *Journal of Materials Chemistry B*
+publication: In *Journal of Materials Chemistry B, 10*(6)*
 publication_short: In *J Mater Chem B*
 
 
@@ -42,12 +41,11 @@ abstract: Mitochondria, key organelles which keep in tune with energy demands fo
 # Summary. An optional shortened abstract.
 summary: A designed two-photon mitochondria tracker with high absorption cross-section and deep-tissue penetration traits.
 
-tags: []
-
+tags: 
+- J Mater Chem B
 featured: true
 
-
-url_pdf: [A biocompatible two-photon absorbing fluorescent mitochondrial probe for deep in vivo bioimaging](https://pubs.rsc.org/en/content/articlelanding/2022/TB/D1TB02040D)
+url_pdf: https://pubs.rsc.org/en/content/articlelanding/2022/TB/D1TB02040D
 url_code: ""
 url_dataset: ""
 url_poster: ""
@@ -55,17 +53,6 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
-
-
-title:  "XXX"
-authors:
-    - Lingmin Lin
-date: "2022-02-09"
-doi: "10.1039/d1tb02040d"
-
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2022-08-10"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -78,36 +65,12 @@ publication_types: ["2"]
 publication: In *Journal of Materials Chemistry B*
 publication_short: In *J Mater Chem B*
 
-
-abstract: '123'
-
-# Summary. An optional shortened abstract.
-summary: jjj
-
-tags: []
-featured: true
-
-
-url_pdf: ""
-url_code: ""
-url_dataset: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
 ---
-
-
-
 
 {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
