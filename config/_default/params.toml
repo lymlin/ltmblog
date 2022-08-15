@@ -60,14 +60,14 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "lymlin@yeah.net"
 #phone = "888 888 88 88"
-address = "22 Qixiangtai Rd, Tianjin Medical University, Tianjin, 307000, China"
+address = "302, Unit 5, Building 14, Chengbei Business Park,Xihu District, Hangzhou, Zhejiang 310011, China"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
  #                 Wednesday 09:00 to 10:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/lymlin"
+# appointment_url = "https://calendly.com/lymlin"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -94,7 +94,7 @@ appointment_url = "https://calendly.com/lymlin"
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-#map = 2
+map = 0
 #map_api_key = ""
 #latitude = "39.106740"
 #longitude = "117.183576"

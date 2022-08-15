@@ -19,8 +19,9 @@ subtitle = ""
   icon = "user-md"
   icon_pack = "fas"
   name = "Clinical Practice"
-  description = """70% \t
+  description = """85% \t
   Common diseases \t
+  Neurological diseases \t
   Clinical care \t
   """  
 
@@ -28,19 +29,19 @@ subtitle = ""
   icon = "vials"
   icon_pack = "fas"
   name = "Lab Techniques"
-  description = """50% \t 
-  Animal management \t
+  description = """85% \t 
+  Animal care and surgery \t
   Histological techniques \t
-  Cell isolation and culture"""
+  Biological techniques"""
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "Data Management"
-  description = """40% \t
-  Data processing \t
-  Support application \t
-  Work exhibition"""  
+  description = """65% \t
+  Data preprocessing \t
+  signal processing
+  """  
 
 
 
@@ -50,24 +51,27 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = """50% \t 
-  Deep learning in diabetes \t
+  description = """75% \t 
+  Biostatistics\t
+  Causal inference\t
   Bioinformatics
 """
 [[feature]]
-  icon = "ubuntu"
+  icon = "m"
   icon_pack = "fab"
-  name = "Linux"
-  description = """20% \t
+  name = "Matlab"
+  description = """75% \t
   Deep learning in diabetes \t
-  Bioinformatics"""
+  Electrophysiology & behavioral kinetics """
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Pytorch"
-  description = """10% \t
-  Deep learning practice"""
+  name = "python"
+  description = """50% \t
+  Deep learning practice \t
+  Visualization
+  """
 
 # Group and personality
 
@@ -76,7 +80,7 @@ subtitle = ""
   icon = "users"
   icon_pack = "fas"
   name = "Group"
-  description = """70% \t
+  description = """80% \t
   Cooperation \t
   Encouraging \t
   Leadership 
@@ -85,20 +89,19 @@ subtitle = ""
 [[feature]]
   icon = "user-circle"
   icon_pack = "fas"
-  name = "Portrait"
-  description = """60% \t
+  name = "Personal Traits"
+  description = """80% \t
   Independence \t
   Self-learning \t
-  Creditability
+  Accertive
   """
 
 [[feature]]
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Teaching"
-  description = """50% \t
-  Home tutoring for 2 \t 
-  senior-high-school students
-  """
+  description = """65% \t
+  Part-time jobs as a family teacher \t
+  for senior-high students"""
 
 +++

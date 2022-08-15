@@ -1,5 +1,5 @@
 +++
-# Experience widget.
+# Experience/Education widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -17,31 +17,60 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Further lab Training"
+  company = "Zhejiang University"
+  location = "Zhejiang"
+  date_start = "Aug 2020"
+  date_end = "Jul 2022"
+  description = """
+Working as a Research Assistant, further training the lab skills and taking responsibility for lab running	Aug. 2020 ~ Apr. 2022
+
+##### Prof. Xuhua Wang, Dr. Zuobin Chen
+College of Medicine School of Brain Science and Brain Medicine \t 
+Department of Rehabilitation Medicine, the First Affiliated Hospital \t
+
+###### Tasks:
+**Research & works**
+
+* Accomplished the two-photon mitochondrial probe study 
+* Investigated Electrophysiological and kinectical behavior traits to figure out the effects of interpretions like MSCs and 3D-printed materials.
+* Further developed computer skills (R, matlab, and Python)
+* Other works for the lab running etc.
+
+---
+**Skills**
+
+* Further trained in the lab skills (such as electrophysiology, histology, and animal care etc.) and other related traits.
+"""
+
+
 [[experience]]
   title = "Neurological Training"
   company = "Tianjin Medical University General Hospital"
   company_url = ""
   location = "Tianjin"
-  date_start = "2017-08-01"
-  date_end = ""
+  date_start = "Aug 2018"
+  date_end = "Jul 2020"
   description = """
 
 ##### Doctor Junwei Hao
-National Distinguished Young \t
+
 Tianjin Neurological Institute \t
 Tianjin Medical University General Hospital
 
 ###### Tasks:
 **Research Training**
 
-* Research assistant in the cGAS research for multiple sclerosis project
-* Research assistant in the scRNA research for stroke project
-* Masters degree research project
+* Accomplished the causal inference study of FGF23 and ischemic stroke (Master thesis)
+* Participanted in the single cell research for stroke project
+* Participanted in the cGAS research for multiple sclerosis project
 
 ---
 **Skills**
 
-* Developed in-depth knowledge of literature searching and bioinformatics analysis, like differential analysis and gene annotation
+* Developed in-depth knowledge of literature searching and bioinformatics analysis
 * Practiced basic biological and immunological techniques such as PCR,  immunofluorescent staining and cell separation techniques
 """
 
@@ -53,16 +82,16 @@ Tianjin Medical University General Hospital
  """
   company_url = ""
   location = "Tianjin"
-  date_start = "2017-07-01"
-  date_end = ""
+  date_start = "Jun 2017"
+  date_end = "Jun 2020"
   description = """
 
 ###### Tasks:
 **Clinical Training**
 
-* 2019 Mar – Present	**Specialized training in neurology**
-* 2018 Sep – 2019 Feb	**Intensified internship in general physics and surgery departments**
-* 2017 Jul – 2018 Jul	**General internship, clinical rotation in various departments**
+* Mar 2019 – Jun 2020	**Specialized training in neurology**
+* Sep 2018 – Feb 2019 **Intensified internship**
+* Jul 2017 – Jul 2018 **General internship, clinical rotation in various departments**
 
 ---
 **Skills**
@@ -78,8 +107,8 @@ Tianjin Medical University General Hospital
  """
   company_url = ""
   location = "Tianjin"
-  date_start = "2017-05-01"
-  date_end = "2019-05-01"
+  date_start = "May 2017"
+  date_end = "May 2019"
   description = """
 
 ##### Professor Jiarui Si
@@ -91,18 +120,16 @@ Tianjin Medical University Metabolic Diseases Hospital
  
 ###### Tasks:
 
-  2017-2019 **Diabetes glucose prediction and health management based on deep learning**.*The leader in the team*. \t
-  Acted in: Research assistant, Protocol design, Task assignment, Medical translation.
+2017-2019 **Diabetes glucose prediction and health management based on deep learning**. \t
+Acted in: Protocol design, Task assignment, Medical translation, and Data analysis.
 
 ---
 **Skills**
 
-* Developed several computer techniques: R, Linux, and a little Python
+* Developed some computer techniques: R, Linux, and Python
 * Learned some frameworks of deep learning in Pytorch, like CNN and LSTM
-* Practiced expression skills by oral presentation and academic writing
-* Evolved cooperation skills in a group
-
-  """
+* 
+"""
 
 
 
@@ -113,8 +140,8 @@ Tianjin Medical University Metabolic Diseases Hospital
  """
   company_url = ""
   location = "Tianjin"
-  date_start = "2014-09-01"
-  date_end = "2016-07-01"
+  date_start = "Sep 2014"
+  date_end = "Jul,2016"
   description = """
   
 ##### Professor Ping Zhang
@@ -123,22 +150,21 @@ Tianjin Medical University Metabolic Diseases Hospital
 
 ###### Tasks:
 
-  2015 – 2016 **Risk assessment of lumbar disc herniation and exercise rehabilitation**. *The leader in the team*. \t
-  Acted in: Played a role in protocol design, task assignment, data process and analysis.
+  2015 – 2016 **Risk assessment of lumbar disc herniation and exercise rehabilitation**. \t
+  Trained in cooperation, protocol design, task assignment, data process and analysis.
 
-  2015 Summer **Spinal health status survey for college students and healthy spine propaganda**.*The leader in the team*. \t
-  Acted in: Cooperated in task assignment, questionnaire design and data analysis.
+  2015 Summer **Spinal health status survey for college students and healthy spine propaganda**. \t
+  Trained in cooperation, task assignment, questionnaire design and data analysis.
 
   2014 – 2015 **Experimental study for the inhibitory effect of Salubrinal on osteoclast cell lines**. \t
-  Acted in: Research assistant, performed a simple drug-control experiment shown increased activation of osteoclast in osteoporosis ovariectomy mice.
+  Accomplished a simple drug-control experiment which showed an increased activation of osteoclast under a drug in osteoporosis ovariectomy mice.
 
 ---
 **Skills**
 
-* Developed writing skills to apply for funds and to compose research reports
-* Practiced basic histological techniques, like paraffin slicing and staining
-* Evolved cooperation and presenting skills in a group
 
+* Practiced basic histological techniques
+  
   """
 
 +++

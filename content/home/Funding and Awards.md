@@ -23,17 +23,17 @@ date_format = "Jan 2006"
   company = "Tianjin Medical University"
   company_url = ""
   location = "Tianjin"
-  date_start = "2014-10-01"
-  date_end = "2018-05-01"
+  date_start = "Oct 2014"
+  date_end = "May 2018"
   description = """
 
-**Tianjin Medical University’s Undergraduate Research Opportunity Program**. 2017 – 2018. ￥1000 
+Tianjin Medical University’s Undergraduate Research Opportunity Program. 2017 – 2018.  
 
-**Tianjin Medical University’s Undergraduate Research Opportunity Program**. 2015 – 2016. ￥1000 
+Tianjin Medical University’s Undergraduate Research Opportunity Program. 2015 – 2016. 
 
-**Tianjin Medical University Social Practice Innovation Project**. 2015 Summer.￥500 
+Tianjin Medical University Social Practice Innovation Project. 2015. 
 
-**Scientific Research Project for College Students in the School of Basic Medical Sciences**. 2014 – 2015. ￥500 
+Scientific Research Project for College Students in the School of Basic Medical Sciences. 2014 – 2015. 
 
 """
 
@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   company = "Tianjin Medical University"
   company_url = ""
   location = "Tianjin"
-  date_start = "2013-09-01"
-  date_end = "2017-07-01"
+  date_start = "Sep 2013"
+  date_end = "Jul 2017"
   description = """
 
 The third prize. School scholarship of the 2015-16 school year. 2017 Jun.
@@ -62,8 +62,8 @@ Individual scholarship of the 2013-14 school year. 2015 Mar.
   company = "Tianjin Medical University"
   company_url = ""
   location = "Tianjin"
-  date_start = "2014-06-01"
-  date_end = "2016-12-01"
+  date_start = "Jun 2014"
+  date_end = "Dec 2016"
   description = """
 
 Memorial award. The games of the III Tianjin climbing. 2016 Nov
@@ -82,8 +82,8 @@ Excellent service provider and the Two-star Certificate of the UNITE THE FORCE F
   company = "Tianjin Medical University"
   company_url = ""
   location = "Tianjin"
-  date_start = "2014-06-01"
-  date_end = "2015-12-01"
+  date_start = "Jun 2014"
+  date_end = "Dec 2015"
   description = """
 
 Municipal first prize. The IV physics competition of college students in Tianjin. 2015 Jun
